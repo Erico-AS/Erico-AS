@@ -1,4 +1,5 @@
 ## Olá, eu sou o Érico ✌️
+<div align='center'>
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ericoaugustosstj@gmail.com)
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A9rico-augusto/)
@@ -6,7 +7,7 @@
 ![Erico GitHub stats](https://github-readme-stats.vercel.app/api?username=Erico-AS&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erico-AS&layout=compact)](https://github.com/Erico-AS/github-readme-stats)
-
+</div>
 ## Linguagens usadas
 
 <div style='display: inline_block' align='center'><br/>
@@ -17,8 +18,3 @@
     <img align='center' alt='python' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
     <img align='center' alt='sql' src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'>
 </div>
-<style>
-    * {
-    text-align: 'center';
-    }    
-</style>
