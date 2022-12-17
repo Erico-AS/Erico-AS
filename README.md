@@ -8,10 +8,11 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A9rico-augusto/)
 
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erico-AS&layout=compact)](https://github.com/Erico-AS/github-readme-stats)
         
 ![Erico GitHub stats](https://github-readme-stats.vercel.app/api?username=Erico-AS&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erico-AS&layout=compact)](https://github.com/Erico-AS/github-readme-stats)
 </div>
 <h2>Linguagens usadas</h2>
 
