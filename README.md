@@ -9,12 +9,10 @@
 
 </div>
 
-<div aling='center'>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erico-AS&hide=html,css)](https://github.com/Erico-AS/github-readme-stats)
         
                 
 ![Erico GitHub stats](https://github-readme-stats.vercel.app/api?username=Erico-AS&show_icons=true&theme=dark)
-</div>
 
 </div>
 <h2>Linguagens usadas</h2>
