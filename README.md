@@ -11,7 +11,7 @@
   <br/>
   <br/>
   
-  <table>
+  <table style='border:none'>
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erico-AS&hide=html,css" alt="Top Langs"></td>
       <td><img src="https://github-readme-stats.vercel.app/api?username=Erico-AS&show_icons=true&theme=dark" alt="Erico GitHub stats"></td>
