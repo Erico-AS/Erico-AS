@@ -1,7 +1,7 @@
 # Olá, eu sou o Érico ✌️
 <div align='center'>
 
-<div align ='center' display='inline'>
+<div align ='center' display='flex'>
         
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ericoaugustosstj@gmail.com)
 
