@@ -11,17 +11,9 @@
   <br/>
   <br/>
   
-  <style>
-    table {
-      border-collapse: collapse;
-    }
-    table, th, td {
-      border: none;
-    }
-  </style>
   
-  <table>
-    <tr>
+<table style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erico-AS&hide=html,css" alt="Top Langs" style="border: none;"></td>
       <td><img src="https://github-readme-stats.vercel.app/api?username=Erico-AS&show_icons=true&theme=dark" alt="Erico GitHub stats" style="border: none;"></td>
     </tr>
