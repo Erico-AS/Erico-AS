@@ -3,13 +3,14 @@
 <div align="center">
   <br/>
   <a href="mailto:ericoaugustosstj@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border: none;">
   </a>
   <a href="https://www.linkedin.com/in/%C3%A9rico-augusto/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border: none;">
   </a>
   <br/>
   <br/>
+  
   <style>
     table {
       border-collapse: collapse;
@@ -17,12 +18,12 @@
     table, th, td {
       border: none;
     }
-</style>
+  </style>
   
-  <table >
-    <tr style='border:none'>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erico-AS&hide=html,css" alt="Top Langs"></td>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Erico-AS&show_icons=true&theme=dark" alt="Erico GitHub stats"></td>
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erico-AS&hide=html,css" alt="Top Langs" style="border: none;"></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=Erico-AS&show_icons=true&theme=dark" alt="Erico GitHub stats" style="border: none;"></td>
     </tr>
   </table>
 </div>
