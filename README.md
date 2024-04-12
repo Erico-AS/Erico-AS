@@ -19,7 +19,7 @@
 <div style='display: inline_block' align='center'><br/>
         <img align='center' alt='JS' src='https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&fontcolor=white'>
         <img align='center' alt='PHP' src='https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=black'>
-        <img align='center' alt='React' src='https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white'>
+        <img align='center' alt='React' src='https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black'>
         <img align='center' alt='C#' src='https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white'>
         <img align='center' alt='Kotlin' src='https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white'>
         <img align='center' alt='TypeScript' src='https://img.shields.io/badge/typecript-3178C6?style=for-the-badge&logo=swift&logoColor=white'>
