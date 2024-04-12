@@ -1,5 +1,5 @@
 # Olá, eu sou o Érico ✌️
-<div align='center'>
+<div>
 
 <div style='display: inline_block' align='center'><br/>
         
