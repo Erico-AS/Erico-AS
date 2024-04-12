@@ -22,7 +22,9 @@
         <img align='center' alt='React' src='https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=react&logoColor=white'>
         <img align='center' alt='C#' src='https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=c-sharp&logoColor=white'>
         <img align='center' alt='Kotlin' src='https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin&logoColor=B125EA'>
+        <img align='center' alt='TypeScript' src='https://img.shields.io/badge/typecript-007acc?style=for-the-badge&logo=swift&logoColor=white'>
         <img align='center' alt='Swift' src='https://img.shields.io/badge/swift-white?style=for-the-badge&logo=swift&logoColor=f05138'>
         <img align='center' alt='Vue' src='https://img.shields.io/badge/vue-1572B6?style=for-the-badge&logo=vuedotjs&logoColor=white'>
         <img align='center' alt='sql' src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'>
+        <img align='center' alt='Mongo' src='https://img.shields.io/badge/mongo-#47A248?style=for-the-badge&logo=vuedotjs&logoColor=white'>
 </div>
