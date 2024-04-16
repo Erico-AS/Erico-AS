@@ -30,7 +30,7 @@
 </div>
 <br/>
 <br/>
-<p align="center" width="100%">
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erico-AS&hide=html,css&theme=dark&layout=compact" alt="Top Langs" style="border: none;" height="150px">  
     <img src="https://github-readme-stats.vercel.app/api?username=Erico-AS&show_icons=true&theme=dark" alt="Erico GitHub stats" style="border: none" height="150px"></td>
 </p>
