@@ -13,7 +13,7 @@
   
   
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erico-AS&hide=html,css&theme=dark&layout=compact" alt="Top Langs" style="border: none;" width="270px">  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erico-AS&hide=html,css&theme=dark&layout=compact" alt="Top Langs" style="border: none;" width="260px">  
     <img src="https://github-readme-stats.vercel.app/api?username=Erico-AS&show_icons=true&theme=dark" alt="Erico GitHub stats" style="border: none" width="350px"></td>
 
 </p>
