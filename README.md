@@ -11,12 +11,6 @@
   <br/>
   <br/>
   
-  
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erico-AS&hide=html,css&theme=dark&layout=compact" alt="Top Langs" style="border: none;">  
-    <img src="https://github-readme-stats.vercel.app/api?username=Erico-AS&show_icons=true&theme=dark" alt="Erico GitHub stats" style="border: none"></td>
-
-</p>
 </div>
 
 ## Linguagens usadas
@@ -34,3 +28,8 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="sql">
   <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo">
 </div>
+<br/>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erico-AS&hide=html,css&theme=dark&layout=compact" alt="Top Langs" style="border: none;">  
+    <img src="https://github-readme-stats.vercel.app/api?username=Erico-AS&show_icons=true&theme=dark" alt="Erico GitHub stats" style="border: none"></td>
+</p>
