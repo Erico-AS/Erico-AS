@@ -14,8 +14,8 @@
   
 <table style="border-collapse: collapse; border: none;">
     <tr style="border: none;">
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erico-AS&hide=html,css&theme=dark&layout=compact" alt="Top Langs" style="border: none;" width="300px" height="163px"></td>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Erico-AS&show_icons=true&theme=dark" alt="Erico GitHub stats" width="300px" height="163px" style="border: none"></td>
+      <td style="border: none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erico-AS&hide=html,css&theme=dark&layout=compact" alt="Top Langs" style="border: none;" width="300px" height="163px"></td>
+      <td style="border: none;"><img src="https://github-readme-stats.vercel.app/api?username=Erico-AS&show_icons=true&theme=dark" alt="Erico GitHub stats" width="300px" height="163px" style="border: none"></td>
     </tr>
   </table>
 </div>
