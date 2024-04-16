@@ -9,7 +9,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border: none;">
   </a>
   <br/>
-  <br/>
   
 </div>
 
@@ -22,12 +21,14 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/typecript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <br/>
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
   <img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="sql">
   <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo">
 </div>
+<br/>
 <br/>
 <p align="center" width="100%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erico-AS&hide=html,css&theme=dark&layout=compact" alt="Top Langs" style="border: none;" width="300px" height="150px">  
