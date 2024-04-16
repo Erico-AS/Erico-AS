@@ -14,7 +14,7 @@
   
 <table style="border-collapse: collapse; border: none;">
     <tr style="border: none;">
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erico-AS&hide=html,css&perline=14" alt="Top Langs" style="border: none; width: 100; heigth: 100"></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erico-AS&hide=html,css&perline=14" alt="Top Langs" style="border: none;" width="300px" height="163"></td>
       <td><img src="https://github-readme-stats.vercel.app/api?username=Erico-AS&show_icons=true&theme=dark" alt="Erico GitHub stats" width="300px" height="163" style="border: none"></td>
     </tr>
   </table>
